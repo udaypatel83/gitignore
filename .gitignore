@@ -1,5 +1,5 @@
 another-file.txt
 bin/
 *.tmp
-*.txt
+*.text
 *.py
