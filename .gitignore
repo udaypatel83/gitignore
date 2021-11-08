@@ -1,3 +1,4 @@
+*.file
 new-file.txt
 bin/
 *.tmp
